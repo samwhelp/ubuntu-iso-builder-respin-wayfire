@@ -20,8 +20,8 @@ accountsservice
 ## ## Package / lightdm
 ##
 
-lightdm
-lightdm-settings
+#lightdm
+#lightdm-settings
 
 
 
@@ -31,8 +31,8 @@ lightdm-settings
 ## ## Package / lightdm / greeter / gtk
 ##
 
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
+#lightdm-gtk-greeter
+#lightdm-gtk-greeter-settings
 
 
 
@@ -45,7 +45,7 @@ lightdm-gtk-greeter-settings
 ## ## Package / sddm
 ##
 
-#sddm
+sddm
 
 
 
@@ -54,4 +54,13 @@ lightdm-gtk-greeter-settings
 ## ## Package / sddm / theme
 ##
 
-#sddm-theme-maldives
+sddm-theme-maldives
+
+
+
+
+##
+## ## Package / gdm
+##
+
+#gdm3
